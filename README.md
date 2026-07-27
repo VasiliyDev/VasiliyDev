@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://vasiliydev.github.io/mall-wayfinding/">
-    <img src="assets/mall-wayfinding.png" width="840" alt="Mall Wayfinding — interactive 3D indoor navigation demo">
+    <img src="https://raw.githubusercontent.com/VasiliyDev/VasiliyDev/master/assets/mall-wayfinding.png" width="840" alt="Mall Wayfinding — interactive 3D indoor navigation demo">
   </a>
   <br>
   <b><a href="https://vasiliydev.github.io/mall-wayfinding/">▶ Try the interactive 3D wayfinding demo</a></b><br>
