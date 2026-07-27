@@ -10,6 +10,15 @@
   <a href="mailto:boosting007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <a href="https://vasiliydev.github.io/mall-wayfinding/">
+    <img src="assets/mall-wayfinding.png" width="840" alt="Mall Wayfinding — interactive 3D indoor navigation demo">
+  </a>
+  <br>
+  <b><a href="https://vasiliydev.github.io/mall-wayfinding/">▶ Try the interactive 3D wayfinding demo</a></b><br>
+  <sub>Vue 3 · TypeScript · Three.js — pick a floor and a parking spot, the route renders in 3D across levels</sub>
+</p>
+
 ---
 
 I build products end to end — from the database and API to a polished, real-time UI.
@@ -22,7 +31,7 @@ Everything below runs in the browser — click and try it.
 
 | Demo | Stack | What it shows |
 |---|---|---|
-| **[Mall Wayfinding (3D)](https://vasiliydev.github.io/mall-wayfinding/)** | Vue 3 · TypeScript · Three.js | Indoor 3D wayfinding — pick a start floor and a parking spot, route renders across levels |
+| **[Mall Wayfinding (3D)](https://vasiliydev.github.io/mall-wayfinding/)** ⭐ | Vue 3 · TypeScript · Three.js | Indoor 3D wayfinding — pick a start floor and a parking spot, route renders across levels *(featured above)* |
 | **[LoL Match Analytics](https://vasiliydev.github.io/lol-analytics-ui/)** | Vue 3 · TypeScript | Data-explorer SPA with URL-synced filters by team, champion and composition |
 | **[League Table](https://vasiliydev.github.io/Test-Task-league-table/)** | Vue 3 | Computes live standings from match results — tie-breakers, sorting, edge cases |
 | **[Image Preloading](https://vasiliydev.github.io/Test-Task-image-preloading/)** | Vue 3 | Batch image preload → reveal all at once, no flicker (`Promise.allSettled`) |
