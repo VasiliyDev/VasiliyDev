@@ -33,6 +33,8 @@ Everything below runs in the browser — click and try it.
 |---|---|---|
 | **[Mall Wayfinding (3D)](https://vasiliydev.github.io/mall-wayfinding/)** ⭐ | Vue 3 · TypeScript · Three.js | Indoor 3D wayfinding — pick a start floor and a parking spot, route renders across levels *(featured above)* |
 | **[LoL Match Analytics](https://vasiliydev.github.io/lol-analytics-ui/)** | Vue 3 · TypeScript | Data-explorer SPA with URL-synced filters by team, champion and composition |
+| **[League Table](https://vasiliydev.github.io/Test-Task-league-table/)** | Vue 3 | Computes live standings from match results — flags, tie-breakers, sorting |
+| **[Image Preloading](https://vasiliydev.github.io/Test-Task-image-preloading/)** | Vue 3 | Batch image preload → reveal all at once, no flicker (`Promise.allSettled`) |
 | **[AI Wiki](https://vasiliydev.github.io/test_task_ai_wiki_demo/)** | Multi-agent · LLM | Three prompt strategies per query, blind-ranked by a critic agent |
 
 ## 📦 Selected projects
